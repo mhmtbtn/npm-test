@@ -1,0 +1,6 @@
+/Users/mehmetbutun/Desktop/TestProjects/Test/test/test/bin/Debug/test.exe
+/Users/mehmetbutun/Desktop/TestProjects/Test/test/test/bin/Debug/test.pdb
+/Users/mehmetbutun/Desktop/TestProjects/Test/test/test/obj/Debug/test.csproj.AssemblyReference.cache
+/Users/mehmetbutun/Desktop/TestProjects/Test/test/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/Users/mehmetbutun/Desktop/TestProjects/Test/test/test/obj/Debug/test.exe
+/Users/mehmetbutun/Desktop/TestProjects/Test/test/test/obj/Debug/test.pdb
