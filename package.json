@@ -1,0 +1,22 @@
+{
+  "name": "com.mehmetbutun.npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.cs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mhmtbtn/npm-test.git"
+  },
+  "files": [
+    "/program.cs"
+  ],
+  "author": "mehmet-butun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhmtbtn/npm-test/issues"
+  },
+  "homepage": "https://github.com/mhmtbtn/npm-test#readme"
+}
